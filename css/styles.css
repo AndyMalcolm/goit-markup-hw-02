@@ -138,3 +138,17 @@ color: #FFFFFF;}
     background: #F4F4FD;
     border: 1px solid #E7E9FC;
     border-radius: 4px;}
+.port-name{font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px; 
+    letter-spacing: 0.02em;
+    color: #2E2F42;}
+.port-category{font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px; 
+    letter-spacing: 0.02em;
+    color: #434455;}
