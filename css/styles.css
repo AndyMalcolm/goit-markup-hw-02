@@ -19,6 +19,8 @@ body {
     line-height: 24px;
     letter-spacing: 0.03em;
     text-transform: uppercase;}
+.header{background-color: #FFFFFF;
+    border-bottom: 1px solid #E7E9FC;}
 .header-link{font-family: 'Roboto', sans-serif;
     font-style: normal;
     color: #2E2F42;
@@ -48,7 +50,7 @@ body {
     line-height: 60px;
     letter-spacing: 0.02em;
     color: #FFFFFF;}
-.sec-button{background: #4D5AE5;
+.sec-button{background-color: #4D5AE5;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
     border-radius: 4px;
     font-family: 'Roboto';
@@ -113,3 +115,4 @@ body {
     line-height: 24px;
     letter-spacing: 0.02em;
     color: #E7E9FC;}
+.buttons:hover{color: #404BBF;}
