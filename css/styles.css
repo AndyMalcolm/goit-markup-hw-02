@@ -22,7 +22,9 @@ body {
     font-size: 16px;
     line-height: 24px;
     letter-spacing: 0.02em;}
-.header-add{list-style: none}
+.header-add{list-style: none;
+            font-style: normal; 
+            }
 .header-link:hover{color: #404bbf;}
 .header-link:focus{color: #404bbf;}
 .header-mail{font-family: 'Roboto', sans-serif;
