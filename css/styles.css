@@ -167,3 +167,5 @@ color: #FFFFFF;}
     color: #434455;}
 .accent {color: var(--primary-brand);
          color:  #2E2F42; }
+.accent-footer{color: var(--primary-brand);
+    color: #f4f4fd;}
