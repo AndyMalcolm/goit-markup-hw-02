@@ -44,6 +44,7 @@ body {
     letter-spacing: 0.02em;
     color: #434455;
     text-transform: uppercase;}
+.sec-one{background-color: #2E2F42;}
 .sec-h-one{font-family: 'Roboto';
     font-style: normal;
     font-weight: 700;
@@ -61,10 +62,10 @@ body {
     line-height: 1.5;
     font-size: 16px;
     letter-spacing: 0.04em;
+    cursor: pointer;
     color: #FFFFFF;}
 .link{text-decoration: none;}
 .list{list-style: none;}
-.sec-one{background-color: #2E2F42;}
 .hero-item{font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
