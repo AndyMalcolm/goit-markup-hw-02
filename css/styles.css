@@ -44,24 +44,27 @@ body {
     letter-spacing: 0.02em;
     color: #434455;
     text-transform: uppercase;}
-.sec-h1{font-family: 'Roboto';
+.sec-h-one{font-family: 'Roboto';
     font-style: normal;
     font-weight: 700;
     font-size: 56px;
-    line-height: 60px;
+    line-height: 1.07;
+    text-align: center;
     letter-spacing: 0.02em;
     color: #FFFFFF;}
 .sec-button{background-color: #4D5AE5;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
     border-radius: 4px;
-    font-family: 'Roboto';
+    font-family: "Roboto", sans-serif ;
     font-style: normal;
     font-weight: 500;
+    line-height: 1.5;
+    font-size: 16px;
     letter-spacing: 0.04em;
     color: #FFFFFF;}
 .link{text-decoration: none;}
 .list{list-style: none;}
-.sec1{background-color: #2E2F42;}
+.sec-one{background-color: #2E2F42;}
 .hero-item{font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
