@@ -11,7 +11,8 @@ body {
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color: var(--dark);
-        color: #2E2F42;
+        color: #4D5AE5;;
+        
       }
 .header{background-color: #FFFFFF;
     border-bottom: 1px solid #E7E9FC;}
@@ -147,4 +148,4 @@ color: #FFFFFF;}
     letter-spacing: 0.02em;
     color: #434455;}
 .accent {color: var(--primary-brand);
-         color: #4d5ae5 }
+         color:  #2E2F42; }
