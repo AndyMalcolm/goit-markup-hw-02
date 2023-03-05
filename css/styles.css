@@ -131,7 +131,7 @@ body {
     /*PORTFOLIO PAGE*/
 .buttons:hover{background-color: #404BBF;
 color: #FFFFFF;}
-.buttons{font-family: 'Roboto';
+.buttons{font-family: "Roboto", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
@@ -150,7 +150,8 @@ color: #FFFFFF;}
     height: 48px;
     background: #F4F4FD;
     border: 1px solid #E7E9FC;
-    border-radius: 4px;}
+    border-radius: 4px;
+    cursor: pointer;}
 .port-name{font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
