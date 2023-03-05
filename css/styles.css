@@ -90,6 +90,12 @@ body {
     text-transform: capitalize;
     color: #2E2F42;}
 .sec-four{background-color: #F4F4FD;}
+.sec-four-h-two{ font-size: 36px;
+                line-height: 1.11;
+                text-align: center;
+                letter-spacing: 0.02em;
+                text-transform: capitalize;
+                color:  #2e2f42;}
 .sec-four-name{font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
