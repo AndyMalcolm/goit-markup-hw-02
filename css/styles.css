@@ -2,8 +2,8 @@ body {
     font-family: 'Roboto', sans-serif;
     font-style: normal;
     color: #434455;
-    font-weight: 400;} 
-    .logo {
+    font-weight: 400;}
+.logo {
         font-family: "Raleway", sans-serif;
         font-weight: 800;
         font-size: 18px;
@@ -21,7 +21,7 @@ body {
     font-size: 16px;
     line-height: 24px;
     letter-spacing: 0.02em;}
-.header-contacts{color: #434455;}
+.header-contacts{color: #434455; font-style: normal;}
 .header-contacts:hover, .header-contacts:focus{color: #404bbf;}
 .header-add{list-style: none;}
 .header-link:hover, .header-link:focus{color: #404bbf;}
@@ -109,17 +109,14 @@ color: #4D5AE5;}
     line-height: 24px;
     letter-spacing: 0.02em;
     color: #E7E9FC;}
-    /*PORTFOLIO PAGE*/
+    /*_____PORTFOLIO PAGE_____*/
 .buttons:hover{background-color: #404BBF; color: #FFFFFF;}
 .buttons{
     font-weight: 500;
     font-size: 16px;
     line-height: 24px;
     letter-spacing: 0.04em; 
-    color: #4D5AE5;
     padding: 12px 24px;
-    background: #F4F4FD;
-    border: 1px solid #E7E9FC;
     border-radius: 4px;
     cursor: pointer;}
 .port-name{
@@ -137,3 +134,6 @@ color: #4D5AE5;}
          color:  #2E2F42; }
 .accent-footer{color: var(--primary-brand);
          color: #f4f4fd;}
+.accent-buttons{color: #4D5AE5;
+                background: #F4F4FD;
+                border: 1px solid #E7E9FC;}
