@@ -23,7 +23,7 @@ body {
     letter-spacing: 0.02em;}
 .header-contacts{color: #434455; font-style: normal;}
 .header-contacts:hover, .header-contacts:focus{color: #404bbf;}
-.header-add{list-style: none;}
+.header-add{list-style: none; font-style: normal}
 .header-link:hover, .header-link:focus{color: #404bbf;}
 .header-mail{
     font-size: 16px;
@@ -51,6 +51,7 @@ body {
     line-height: 1.5;
     font-size: 16px;
     letter-spacing: 0.04em;
+    font-family: "Roboto", sans-serif;
     cursor: pointer;
     color: #FFFFFF;}
 .sec-button:hover, .sec-button:focus{background-color: #f4f4fd;
@@ -111,7 +112,7 @@ color: #4D5AE5;}
     color: #E7E9FC;}
     /*_____PORTFOLIO PAGE_____*/
 .buttons:hover{background-color: #404BBF; color: #FFFFFF;}
-.buttons{
+.buttons{font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 24px;
