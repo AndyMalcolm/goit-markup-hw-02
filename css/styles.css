@@ -13,7 +13,7 @@ body {
 .header{background-color: var(--white-color);
     border-bottom: 1px solid var(--lighter-color);}
 .header-link{
-    color: var();
+    color: var(--darker-color);
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
