@@ -1,8 +1,6 @@
 body {
     font-family: 'Roboto', sans-serif;
-    font-style: normal;
-    color: var(--gray-color);
-    font-weight: 400;}
+    color: var(--gray-color);}
 .logo {
         font-family: "Raleway", sans-serif;
         font-weight: 800;
@@ -15,10 +13,10 @@ body {
 .header{background-color: var(--white-color);
     border-bottom: 1px solid var(--lighter-color);}
 .header-link{
-    color: #2E2F42;
+    color: var();
     font-weight: 500;
     font-size: 16px;
-    line-height: 24px;
+    line-height: 1.5;
     letter-spacing: 0.02em;}
 .header-contacts{color: var(--gray-color); font-style: normal;}
 .header-contacts:hover, .header-contacts:focus{color: var(--violet-color);}
@@ -26,12 +24,12 @@ body {
 .header-link:hover, .header-link:focus{color: var(--violet-color);}
 .header-mail{
     font-size: 16px;
-    line-height: 24px;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--gray-color);}
 .header-number{
     font-size: 16px;
-    line-height: 24px;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--gray-color);
     text-transform: uppercase;}
@@ -65,7 +63,7 @@ color: var(--brand-color);}
     color: var(--darker-color);}
 .sec-two-text{
     font-size: 16px;
-    line-height: 24px;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--gray-color);}
 .sec-three-h-two{
@@ -86,13 +84,13 @@ color: var(--brand-color);}
 .sec-four-name{
     font-weight: 500;
     font-size: 20px;
-    line-height: 24px;
+    line-height: 1.2;
     text-align: center;
     letter-spacing: 0.02em;
     color: var(--darker-color);}
 .sec-four-work{
     font-size: 16px;
-    line-height: 24px;
+    line-height: 1.5;
     text-align: center;
     letter-spacing: 0.02em;
     color: var(--gray-color);}
@@ -101,7 +99,7 @@ color: var(--brand-color);}
     color: var(--light-color);
     font-weight: 800;
     font-size: 18px;
-    line-height: 24px;
+    line-height: 1.33;
     letter-spacing: 0.03em;
     text-transform: uppercase;}
 .footer-text{
@@ -114,29 +112,29 @@ color: var(--brand-color);}
 .buttons{font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
-    line-height: 24px;
+    line-height: 1.5;
     letter-spacing: 0.04em; 
     padding: 12px 24px;
     border-radius: 4px;
-    cursor: pointer;}
+    cursor: pointer;
+    color: var(--brand-color);
+    background-color: var(--light-color);
+    border: var(--lighter-color);}
 .port-name{
     font-weight: 500;
     font-size: 20px;
-    line-height: 24px; 
+    line-height: 1.2; 
     letter-spacing: 0.02em;
     color: var(--darker-color)}
 .port-category{
     font-size: 16px;
-    line-height: 24px; 
+    line-height: 1.5; 
     letter-spacing: 0.02em;
     color: var(--gray-color)}
 .accent {
          color: var(--darker-color) }
 .accent-footer{
          color: var(--light-color)}
-.accent-buttons{color: var(--gray-color);
-                background: var(--light-color);
-                border: var(--lighter-color) 1px solid ;}
 :root{--brand-color: #4D5AE5;}
 :root{--gray-color: #434455;}
 :root{--light-color: #f4f4fd;}
