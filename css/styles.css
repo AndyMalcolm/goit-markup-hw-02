@@ -16,7 +16,6 @@ body {
 .header{background-color: #FFFFFF;
     border-bottom: 1px solid #E7E9FC;}
 .header-link{font-family: 'Roboto', sans-serif;
-    font-style: normal;
     color: #2E2F42;
     font-weight: 500;
     font-size: 16px;
@@ -25,20 +24,15 @@ body {
 .header-contacts{color: #434455;}
 .header-contacts:hover{color: #404bbf;}
 .header-contacts:focus{color: #404bbf;}
-.header-add{list-style: none;
-            font-style: normal; }
+.header-add{list-style: none;}
 .header-link:hover{color: #404bbf;}
 .header-link:focus{color: #404bbf;}
 .header-mail{font-family: 'Roboto', sans-serif;
-    font-style: normal;
-    font-weight: 400;
     font-size: 16px;
     line-height: 24px;
     letter-spacing: 0.02em;
     color: #434455;}
 .header-number{font-family: 'Roboto', sans-serif;
-    font-style: normal;
-    font-weight: 400;
     font-size: 16px;
     line-height: 24px;
     letter-spacing: 0.02em;
@@ -46,7 +40,6 @@ body {
     text-transform: uppercase;}
 .sec-one{background-color: #2E2F42;}
 .sec-h-one{font-family: 'Roboto';
-    font-style: normal;
     font-weight: 700;
     font-size: 56px;
     line-height: 1.07;
@@ -57,7 +50,6 @@ body {
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
     border-radius: 4px;
     font-family: "Roboto", sans-serif ;
-    font-style: normal;
     font-weight: 500;
     line-height: 1.5;
     font-size: 16px;
@@ -67,21 +59,17 @@ body {
 .link{text-decoration: none;}
 .list{list-style: none;}
 .sec-two-item{font-family: 'Roboto';
-    font-style: normal;
     font-weight: 500;
     letter-spacing: 0.02em;
     font-size: 20px;
     line-height: 1.2;
     color: #2E2F42;}
 .sec-two-text{font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 400;
     font-size: 16px;
     line-height: 24px;
     letter-spacing: 0.02em;
     color: #434455;}
 .sec-three-h-two{font-family: 'Roboto';
-    font-style: normal;
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
@@ -97,7 +85,6 @@ body {
                 text-transform: capitalize;
                 color:  #2e2f42;}
 .sec-four-name{font-family: 'Roboto';
-    font-style: normal;
     font-weight: 500;
     font-size: 20px;
     line-height: 24px;
@@ -105,8 +92,6 @@ body {
     letter-spacing: 0.02em;
     color: #2E2F42;}
 .sec-four-work{font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 400;
     font-size: 16px;
     line-height: 24px;
     text-align: center;
@@ -114,7 +99,6 @@ body {
     color: #434455;}
 .footer{background-color: #2E2F42;}
 .logo-studio2{font-family: 'Raleway', sans-serif;
-    font-style: normal;
     color: #F4F4FD;
     font-weight: 800;
     font-size: 18px;
@@ -122,8 +106,6 @@ body {
     letter-spacing: 0.03em;
     text-transform: uppercase;}
 .footer-text{font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 400;
     font-size: 16px;
     line-height: 24px;
     letter-spacing: 0.02em;
@@ -132,7 +114,6 @@ body {
 .buttons:hover{background-color: #404BBF;
 color: #FFFFFF;}
 .buttons{font-family: "Roboto", sans-serif;
-    font-style: normal;
     font-weight: 500;
     font-size: 16px;
     line-height: 24px;
@@ -153,15 +134,12 @@ color: #FFFFFF;}
     border-radius: 4px;
     cursor: pointer;}
 .port-name{font-family: 'Roboto';
-    font-style: normal;
     font-weight: 500;
     font-size: 20px;
     line-height: 24px; 
     letter-spacing: 0.02em;
     color: #2E2F42;}
 .port-category{font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 400;
     font-size: 16px;
     line-height: 24px; 
     letter-spacing: 0.02em;
